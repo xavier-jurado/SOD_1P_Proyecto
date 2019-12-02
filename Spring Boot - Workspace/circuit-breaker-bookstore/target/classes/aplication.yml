@@ -1,0 +1,10 @@
+eureka:
+   client:
+      serviceUrl:
+         defaultZone: http://localhost:8761/eureka/
+      instance:
+      preferIpAddress: true
+	  appname: Circuit-Breaker-Libreria
+spring:
+   application:
+      name: Circuit-Breaker-Libreria

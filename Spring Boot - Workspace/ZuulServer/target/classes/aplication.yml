@@ -1,0 +1,12 @@
+server:
+   port: 8111
+spring:
+   application:  
+      name: zuulserver
+zuul:
+
+routes:
+   products:
+      path: /to-read
+	service-id: Circuit_Breaker_Lector
+      url: http://localhost:8080/

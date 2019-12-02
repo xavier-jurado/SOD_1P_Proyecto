@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sod3.project.ServidorRegistros.ServidorRegistrosApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.168 s - in com.sod3.project.ServidorRegistros.ServidorRegistrosApplicationTests
